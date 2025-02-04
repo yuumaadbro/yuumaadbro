@@ -2,7 +2,7 @@
 
 ### .NET Software Developer | Web Applications | APIs | AI Training 
 
-I am a passionate **.NET Software Developer** with experience in designing, developing, and maintaining web applications and APIs. My career has led me to work in hybrid environments with organizations such as **Fundación Pasqual Maragall** and **Denario**, where I contributed to building efficient and high-impact solutions. 
+I am a passionate **.NET Software Developer** with experience in designing, developing, and maintaining web applications and APIs. My career has led me to work in hybrid environments with organizations such as **Fundación Pasqual Maragall**, **Outlier** and **Denario**, where I contributed to building efficient and high-impact solutions. 
 
 ## 💻 Technologies & Tools I Work With:
 - **Programming Languages**: C#, .NET Framework, ASP.NET
