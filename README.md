@@ -23,5 +23,4 @@ Let's connect and build something great together! 🚀
 
 📫 **Contact Me**:
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-blanco-astilleros-116a61271/)
-- [GitHub](https://github.com/yuumaadbro)
 - [Email](mailto:jesus.blanco58@protonmail.com)
