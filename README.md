@@ -1,26 +1,47 @@
-# 👋 Hi there! I'm Yuma 
+# 👋 Hi there! I'm Yuma
 
-### .NET Software Developer | Web Applications | APIs | AI Training 
+### .NET Developer | API Engineer | Tech Enthusiast | AI Contributor
 
-I am a passionate **.NET Software Developer** with experience in designing, developing, and maintaining web applications and APIs. My career has led me to work in hybrid environments with organizations such as **Fundación Pasqual Maragall**, **Outlier** and **Denario**, where I contributed to building efficient and high-impact solutions. 
+I’m a dedicated **.NET Developer** with a strong focus on building **scalable APIs**, **modern web applications**, and **automated backend systems**. With experience across diverse projects and domains, I enjoy creating solutions that are clean, efficient, and maintainable.
 
-## 💻 Technologies & Tools I Work With:
-- **Programming Languages**: C#, .NET Framework, ASP.NET
-- **Database Management**: SQL Server
-- **Development Tools**: Visual Studio, Git, Postman
-- **Web & API Development**: RESTful APIs, Microservices
+---
 
-## 🚀 What I Bring:
-- 📌 **Expertise in Web Development**: Designing and developing scalable web applications in **.NET environments**.
-- 📌 **Database Management**: Ensuring data integrity and optimizing performance in **SQL Server**.
-- 📌 **Problem-Solving**: Tackling complex technical challenges and improving development workflows.
-- 📌 **AI Training & Code Evaluation**: Crafting and answering questions related to **computer science** to train AI models, as well as evaluating and ranking AI-generated code.
+## 💻 Technologies I Work With
 
-## 🔍 Seeking New Opportunities
-I am always looking for exciting challenges where I can grow as a developer, contribute my expertise, and collaborate on impactful projects. 
+- **Languages**: C#, JavaScript, TypeScript
+- **Frameworks**: .NET 8, ASP.NET Core
+- **Frontend**: Blazor, Angular, HTML, CSS
+- **Databases**: SQL Server, MongoDB
+- **Tools**: Visual Studio, Git, Postman, Swagger
+- **DevOps & Hosting**: Docker, IIS, RapidAPI, Windows VPS
 
-Let's connect and build something great together! 🚀
+---
+
+## 🚀 What I Do
+
+- 🧩 **API Development**  
+  I design and implement RESTful and gRPC APIs with clean architecture and strong testing strategies.
+
+- 📦 **Backend Engineering**  
+  I build backend services that are scalable, secure, and easy to integrate into diverse environments.
+
+- 📤 **Deployment & Automation**  
+  I handle full-cycle deployments, including SMTP configuration, hosting, and domain management.
+
+- 🤖 **AI Collaboration**  
+  I contribute to training and evaluating AI models focused on code understanding and software engineering.
+
+---
+
+## 💡 Always Learning & Building
+
+I'm passionate about exploring new tools, patterns, and ideas to grow as a developer and help others build high-impact solutions.
+
+Let’s connect and collaborate on something great! 🚀
+
+---
 
 📫 **Contact Me**:
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-blanco-astilleros-116a61271/)
+- [RapidAPI](https://rapidapi.com/user/yuumaadbro)
 - [Email](mailto:jesus.blanco58@protonmail.com)
