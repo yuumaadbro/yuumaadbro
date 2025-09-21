@@ -13,7 +13,7 @@ I’m a dedicated **.NET Developer** with a strong focus on building **scalable 
 - **Frontend**: Blazor, Angular, HTML, CSS
 - **Databases**: SQL Server, MongoDB
 - **Tools**: Visual Studio, Git, Postman, Swagger
-- **DevOps & Hosting**: Docker, IIS, RapidAPI, Windows VPS
+- **DevOps & Hosting**: Docker, IIS
 
 ---
 
