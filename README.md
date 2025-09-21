@@ -43,5 +43,4 @@ Let’s connect and collaborate on something great! 🚀
 
 📫 **Contact Me**:
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-blanco-astilleros-116a61271/)
-- [RapidAPI](https://rapidapi.com/user/yuumaadbro)
 - [Email](mailto:jesus.blanco58@protonmail.com)
